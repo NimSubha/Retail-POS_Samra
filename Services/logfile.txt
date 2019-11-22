@@ -1,0 +1,336 @@
+
+154720: 02/27/13:Retalix version:CDS33
+154720: 02/27/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+154720: 02/27/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+154720: 02/27/13:HRESULT PLHub_Exchange():Request XML
+154720: 02/27/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+154720: 02/27/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+154720: 02/27/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+154720: 02/27/13::readFileInno() No configuration.xml
+154720: 02/27/13  Can't read the config file : configuration.xml
+154720: 02/27/13:createXMLResponse():Response Xml creation:
+154720: 02/27/13MERCAHNTINFO==1
+154720: 02/27/13: 117
+154720: 02/27/13: INTERNAL FAILURE
+154720: 02/27/13:createXMLResponse():Customer copy
+154720: 02/27/13:createXMLResponse()21
+154720: 02/27/13:createXMLResponse():Merchant copy
+154720: 02/27/13:createXMLResponse():Response Xml created 
+154720: 02/27/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+154720: 02/27/13:HRESULT PLHub_Exchange():TID read Fail
+
+124809: 03/04/13:Retalix version:CDS33
+124809: 03/04/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+124809: 03/04/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+124809: 03/04/13:HRESULT PLHub_Exchange():Request XML
+124809: 03/04/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+124809: 03/04/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+124809: 03/04/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+124809: 03/04/13::readFileInno() No configuration.xml
+124809: 03/04/13  Can't read the config file : configuration.xml
+124809: 03/04/13:createXMLResponse():Response Xml creation:
+124809: 03/04/13MERCAHNTINFO==1
+124809: 03/04/13: 117
+124809: 03/04/13: INTERNAL FAILURE
+124809: 03/04/13:createXMLResponse():Customer copy
+124809: 03/04/13:createXMLResponse()21
+124809: 03/04/13:createXMLResponse():Merchant copy
+124809: 03/04/13:createXMLResponse():Response Xml created 
+124809: 03/04/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+124809: 03/04/13:HRESULT PLHub_Exchange():TID read Fail
+
+142609: 03/15/13:Retalix version:CDS33
+142609: 03/15/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+142609: 03/15/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+142609: 03/15/13:HRESULT PLHub_Exchange():Request XML
+142609: 03/15/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+142609: 03/15/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+142609: 03/15/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+142609: 03/15/13::readFileInno() No configuration.xml
+142609: 03/15/13  Can't read the config file : configuration.xml
+142609: 03/15/13:createXMLResponse():Response Xml creation:
+142609: 03/15/13MERCAHNTINFO==1
+142609: 03/15/13: 117
+142609: 03/15/13: INTERNAL FAILURE
+142609: 03/15/13:createXMLResponse():Customer copy
+142609: 03/15/13:createXMLResponse()21
+142609: 03/15/13:createXMLResponse():Merchant copy
+142609: 03/15/13:createXMLResponse():Response Xml created 
+142609: 03/15/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+142609: 03/15/13:HRESULT PLHub_Exchange():TID read Fail
+
+125329: 07/06/13:Retalix version:CDS33
+125329: 07/06/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+125329: 07/06/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+125329: 07/06/13:HRESULT PLHub_Exchange():Request XML
+125329: 07/06/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+125329: 07/06/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+125329: 07/06/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+125329: 07/06/13::readFileInno() No configuration.xml
+125329: 07/06/13  Can't read the config file : configuration.xml
+125329: 07/06/13:createXMLResponse():Response Xml creation:
+125329: 07/06/13MERCAHNTINFO==1
+125329: 07/06/13: 117
+125329: 07/06/13: INTERNAL FAILURE
+125329: 07/06/13:createXMLResponse():Customer copy
+125329: 07/06/13:createXMLResponse()21
+125329: 07/06/13:createXMLResponse():Merchant copy
+125329: 07/06/13:createXMLResponse():Response Xml created 
+125329: 07/06/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+125329: 07/06/13:HRESULT PLHub_Exchange():TID read Fail
+
+125412: 07/06/13:Retalix version:CDS33
+125412: 07/06/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+125412: 07/06/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+125412: 07/06/13:HRESULT PLHub_Exchange():Request XML
+125412: 07/06/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+125412: 07/06/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+125412: 07/06/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+125412: 07/06/13::readFileInno() No configuration.xml
+125412: 07/06/13  Can't read the config file : configuration.xml
+125412: 07/06/13:createXMLResponse():Response Xml creation:
+125412: 07/06/13MERCAHNTINFO==1
+125412: 07/06/13: 117
+125412: 07/06/13: INTERNAL FAILURE
+125412: 07/06/13:createXMLResponse():Customer copy
+125412: 07/06/13:createXMLResponse()21
+125412: 07/06/13:createXMLResponse():Merchant copy
+125412: 07/06/13:createXMLResponse():Response Xml created 
+125412: 07/06/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+125412: 07/06/13:HRESULT PLHub_Exchange():TID read Fail
+
+151926: 07/06/13:Retalix version:CDS33
+151926: 07/06/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+151926: 07/06/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+151926: 07/06/13:HRESULT PLHub_Exchange():Request XML
+151926: 07/06/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+151926: 07/06/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+151926: 07/06/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+151926: 07/06/13::readFileInno() No configuration.xml
+151926: 07/06/13  Can't read the config file : configuration.xml
+151926: 07/06/13:createXMLResponse():Response Xml creation:
+151926: 07/06/13MERCAHNTINFO==1
+151926: 07/06/13: 117
+151926: 07/06/13: INTERNAL FAILURE
+151926: 07/06/13:createXMLResponse():Customer copy
+151926: 07/06/13:createXMLResponse()21
+151926: 07/06/13:createXMLResponse():Merchant copy
+151926: 07/06/13:createXMLResponse():Response Xml created 
+151926: 07/06/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+151926: 07/06/13:HRESULT PLHub_Exchange():TID read Fail
+
+124844: 07/29/13:Retalix version:CDS33
+124844: 07/29/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+124844: 07/29/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+124844: 07/29/13:HRESULT PLHub_Exchange():Request XML
+124844: 07/29/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+124844: 07/29/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+124844: 07/29/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+124844: 07/29/13::readFileInno() No configuration.xml
+124844: 07/29/13  Can't read the config file : configuration.xml
+124844: 07/29/13:createXMLResponse():Response Xml creation:
+124844: 07/29/13MERCAHNTINFO==1
+124844: 07/29/13: 117
+124844: 07/29/13: INTERNAL FAILURE
+124844: 07/29/13:createXMLResponse():Customer copy
+124844: 07/29/13:createXMLResponse()21
+124844: 07/29/13:createXMLResponse():Merchant copy
+124844: 07/29/13:createXMLResponse():Response Xml created 
+124844: 07/29/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+124844: 07/29/13:HRESULT PLHub_Exchange():TID read Fail
+
+124920: 07/29/13:Retalix version:CDS33
+124920: 07/29/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+124920: 07/29/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+124920: 07/29/13:HRESULT PLHub_Exchange():Request XML
+124920: 07/29/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+124920: 07/29/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+124920: 07/29/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+124920: 07/29/13::readFileInno() No configuration.xml
+124920: 07/29/13  Can't read the config file : configuration.xml
+124920: 07/29/13:createXMLResponse():Response Xml creation:
+124920: 07/29/13MERCAHNTINFO==1
+124920: 07/29/13: 117
+124920: 07/29/13: INTERNAL FAILURE
+124920: 07/29/13:createXMLResponse():Customer copy
+124920: 07/29/13:createXMLResponse()21
+124920: 07/29/13:createXMLResponse():Merchant copy
+124920: 07/29/13:createXMLResponse():Response Xml created 
+124920: 07/29/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+124920: 07/29/13:HRESULT PLHub_Exchange():TID read Fail
+
+130017: 07/29/13:Retalix version:CDS33
+130017: 07/29/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+130017: 07/29/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+130017: 07/29/13:HRESULT PLHub_Exchange():Request XML
+130017: 07/29/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+130017: 07/29/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+130017: 07/29/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+130017: 07/29/13::readFileInno() No configuration.xml
+130017: 07/29/13  Can't read the config file : configuration.xml
+130017: 07/29/13:createXMLResponse():Response Xml creation:
+130017: 07/29/13MERCAHNTINFO==1
+130017: 07/29/13: 117
+130017: 07/29/13: INTERNAL FAILURE
+130017: 07/29/13:createXMLResponse():Customer copy
+130017: 07/29/13:createXMLResponse()21
+130017: 07/29/13:createXMLResponse():Merchant copy
+130017: 07/29/13:createXMLResponse():Response Xml created 
+130017: 07/29/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+130017: 07/29/13:HRESULT PLHub_Exchange():TID read Fail
+
+130345: 07/29/13:Retalix version:CDS33
+130345: 07/29/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+130345: 07/29/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+130345: 07/29/13:HRESULT PLHub_Exchange():Request XML
+130345: 07/29/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+130345: 07/29/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+130345: 07/29/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+130345: 07/29/13::readFileInno() No configuration.xml
+130345: 07/29/13  Can't read the config file : configuration.xml
+130345: 07/29/13:createXMLResponse():Response Xml creation:
+130345: 07/29/13MERCAHNTINFO==1
+130345: 07/29/13: 117
+130345: 07/29/13: INTERNAL FAILURE
+130345: 07/29/13:createXMLResponse():Customer copy
+130345: 07/29/13:createXMLResponse()21
+130345: 07/29/13:createXMLResponse():Merchant copy
+130345: 07/29/13:createXMLResponse():Response Xml created 
+130345: 07/29/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+130345: 07/29/13:HRESULT PLHub_Exchange():TID read Fail
+
+130611: 07/29/13:Retalix version:CDS33
+130611: 07/29/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+130611: 07/29/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+130611: 07/29/13:HRESULT PLHub_Exchange():Request XML
+130611: 07/29/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+130611: 07/29/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+130611: 07/29/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+130611: 07/29/13::readFileInno() No configuration.xml
+130611: 07/29/13  Can't read the config file : configuration.xml
+130611: 07/29/13:createXMLResponse():Response Xml creation:
+130611: 07/29/13MERCAHNTINFO==1
+130611: 07/29/13: 117
+130611: 07/29/13: INTERNAL FAILURE
+130611: 07/29/13:createXMLResponse():Customer copy
+130611: 07/29/13:createXMLResponse()21
+130611: 07/29/13:createXMLResponse():Merchant copy
+130611: 07/29/13:createXMLResponse():Response Xml created 
+130611: 07/29/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+130611: 07/29/13:HRESULT PLHub_Exchange():TID read Fail
+
+131211: 07/29/13:Retalix version:CDS33
+131211: 07/29/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+131211: 07/29/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+131211: 07/29/13:HRESULT PLHub_Exchange():Request XML
+131211: 07/29/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+131211: 07/29/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+131211: 07/29/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+131211: 07/29/13::readFileInno() No configuration.xml
+131211: 07/29/13  Can't read the config file : configuration.xml
+131211: 07/29/13:createXMLResponse():Response Xml creation:
+131211: 07/29/13MERCAHNTINFO==1
+131211: 07/29/13: 117
+131211: 07/29/13: INTERNAL FAILURE
+131211: 07/29/13:createXMLResponse():Customer copy
+131211: 07/29/13:createXMLResponse()21
+131211: 07/29/13:createXMLResponse():Merchant copy
+131211: 07/29/13:createXMLResponse():Response Xml created 
+131211: 07/29/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+131211: 07/29/13:HRESULT PLHub_Exchange():TID read Fail
+
+133457: 07/29/13:Retalix version:CDS33
+133457: 07/29/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+133457: 07/29/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+133457: 07/29/13:HRESULT PLHub_Exchange():Request XML
+133457: 07/29/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+133457: 07/29/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+133457: 07/29/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+133457: 07/29/13::readFileInno() No configuration.xml
+133457: 07/29/13  Can't read the config file : configuration.xml
+133457: 07/29/13:createXMLResponse():Response Xml creation:
+133457: 07/29/13MERCAHNTINFO==1
+133457: 07/29/13: 117
+133457: 07/29/13: INTERNAL FAILURE
+133457: 07/29/13:createXMLResponse():Customer copy
+133457: 07/29/13:createXMLResponse()21
+133457: 07/29/13:createXMLResponse():Merchant copy
+133457: 07/29/13:createXMLResponse():Response Xml created 
+133457: 07/29/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+133457: 07/29/13:HRESULT PLHub_Exchange():TID read Fail
+
+141203: 07/29/13:Retalix version:CDS33
+141203: 07/29/13:HRESULT PLHub_Exchange(): REQUEST_TYPE : 0
+141203: 07/29/13:HRESULT PLHub_Exchange(): CLIENT_ID : 1
+141203: 07/29/13:HRESULT PLHub_Exchange():Request XML
+141203: 07/29/13:HRESULT PLHub_Exchange():DES Key Check for log
+
+141203: 07/29/13:HRESULT PLHub_Exchange():Conversion DES for log
+
+141203: 07/29/13:HRESULT PLHub_Exchange()®§^ 6Do·üu<ÉJ‡IT^™QxÆtŸ„F.1)8}ÞC*W¨…c&&Ñ#Ðf»ÿZ"ÀËB¨ƒ³ÚÍ	Þð½g¨%ß£û	ëJÔ 9LôåèGwp65C¸:'ü¿TŸ÷Ýq¡ç;sÇsýøzAMÃxp	5ítä'°lï".¯_Õ<ÙÈ¦~![ºž[ëŸ œœª=îÓëŽ£¯ðžHî¥pjŽ:§n8Œc"Ð\ºsÃ®'ö·í`Û-žÒöv°ÒLÿÚ=—SÁÓ‹6ÑQæÖBWnóf‡ýæŸ‚ê\4p
+L]zÀ›ÝýSÇrvœ}¡»ýäÕ„øqé§ˆP‚è3-Ú+p*ºîæ|£·Ã
+141203: 07/29/13::readFileInno() No configuration.xml
+141203: 07/29/13  Can't read the config file : configuration.xml
+141203: 07/29/13:createXMLResponse():Response Xml creation:
+141203: 07/29/13MERCAHNTINFO==1
+141203: 07/29/13: 117
+141203: 07/29/13: INTERNAL FAILURE
+141203: 07/29/13:createXMLResponse():Customer copy
+141203: 07/29/13:createXMLResponse()21
+141203: 07/29/13:createXMLResponse():Merchant copy
+141203: 07/29/13:createXMLResponse():Response Xml created 
+141203: 07/29/13:createXMLResponse()<?xml version="1.0" encoding="UTF-8"?>
+<hub-response> <TransactionOutput ID =""> <Card> <IsManualEntry>false</IsManualEntry> <CardNumber></CardNumber> <ExpirationDate><MM></MM><YY></YY>  </ExpirationDate> <CardholderName></CardholderName><IssuerName></IssuerName> <SchemeType>Default</SchemeType> </Card> <State> <SelectedAcquirer><ID>ID005</ID> <Name></Name> <DiscountRate>1.10</DiscountRate> <Status>SELECTED ACQ 001 - LOWEST_DISCOUNT_RATE</Status> </SelectedAcquirer> <TerminalID></TerminalID> <Merchant> <ID></ID> <Name>      </Name> <Address>      </Address> <City>      </City></Merchant> <InvoiceNumber></InvoiceNumber> <BatchNumber></BatchNumber> <AcquirerName></AcquirerName> <TransactionTime>2013-</TransactionTime> <HostResponse> <ResponseCode>117</ResponseCode> <ResponseMessage>INTERNAL FAILURE</ResponseMessage>  <ApprovalCode></ApprovalCode> <RetrievalReferenceNumber></RetrievalReferenceNumber> </HostResponse> <StatusCode>117</StatusCode> <StatusMessage>INTERNAL FAILURE</StatusMessage> <Balance>Bal :</Balance><TrackingNumber>1111</TrackingNumber> </State> <ChargeslipData printerWidth="40"> <Receipt isCustomerCopy="false" lineCount="17">  <PrintLine isBold="true" isCentered="true" lineNumber= "1" >  </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:        TIME :</PrintLine><PrintLine lineNumber= "6" >MID : TID  :</PrintLine><PrintLine lineNumber= "7" >BATCH NUM :    INV. NUM :</PrintLine><PrintLine lineNumber= "10" >EXP DATE  : /   CARD :</PrintLine><PrintLine lineNumber= "11" >APPR CODE :   RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00</PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine> </Receipt><Receipt isCustomerCopy="true" lineCount="17"><PrintLine isBold= "true"  isCentered= "true"  lineNumber="1"> </PrintLine> <PrintLine isCentered= "true"  lineNumber= "2" >       </PrintLine> <PrintLine isCentered= "true"  lineNumber= "3" >      </PrintLine> <PrintLine isCentered= "true"  lineNumber= "4" >      </PrintLine><PrintLine lineNumber= "5" >DATE:         TIME:</PrintLine><PrintLine lineNumber= "6" >MID :  TID :  </PrintLine><PrintLine lineNumber= "7" >BATCH NUM :     INV. NUM :</PrintLine> <PrintLine lineNumber= "10" >EXP DATE  :/   CARD :</PrintLine> <PrintLine lineNumber= "11" >APPR CODE :  RRN  :</PrintLine><PrintLine isBOLD="true" lineNumber= "12" >TOTAL AMT. :Rs .00 </PrintLine><PrintLine lineNumber= "13" > </PrintLine><PrintLine lineNumber= "14" >SIGN:----------------------------------</PrintLine><PrintLine  isCentered= "true" lineNumber= "15" ></PrintLine><PrintLine isCentered= "true"  lineNumber= "16" >I AGREE TO PAY AS PER CARD ISSUER AGRMNT</PrintLine><PrintLine lineNumber= "17" > </PrintLine>  </Receipt>  </ChargeslipData> </TransactionOutput>  </hub-response>
+141203: 07/29/13:HRESULT PLHub_Exchange():TID read Fail
